@@ -1,0 +1,14 @@
+D:\Windows Programming\Lession1\exercise5\bin\Debug\net6.0\exercise5.exe
+D:\Windows Programming\Lession1\exercise5\bin\Debug\net6.0\exercise5.deps.json
+D:\Windows Programming\Lession1\exercise5\bin\Debug\net6.0\exercise5.runtimeconfig.json
+D:\Windows Programming\Lession1\exercise5\bin\Debug\net6.0\exercise5.dll
+D:\Windows Programming\Lession1\exercise5\bin\Debug\net6.0\exercise5.pdb
+D:\Windows Programming\Lession1\exercise5\obj\Debug\net6.0\exercise5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows Programming\Lession1\exercise5\obj\Debug\net6.0\exercise5.AssemblyInfoInputs.cache
+D:\Windows Programming\Lession1\exercise5\obj\Debug\net6.0\exercise5.AssemblyInfo.cs
+D:\Windows Programming\Lession1\exercise5\obj\Debug\net6.0\exercise5.csproj.CoreCompileInputs.cache
+D:\Windows Programming\Lession1\exercise5\obj\Debug\net6.0\exercise5.dll
+D:\Windows Programming\Lession1\exercise5\obj\Debug\net6.0\refint\exercise5.dll
+D:\Windows Programming\Lession1\exercise5\obj\Debug\net6.0\exercise5.pdb
+D:\Windows Programming\Lession1\exercise5\obj\Debug\net6.0\exercise5.genruntimeconfig.cache
+D:\Windows Programming\Lession1\exercise5\obj\Debug\net6.0\ref\exercise5.dll
