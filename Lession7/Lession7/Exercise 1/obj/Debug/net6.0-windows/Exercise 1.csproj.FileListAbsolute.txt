@@ -1,0 +1,20 @@
+D:\Windows Programming\Lession7\Lession7\Exercise 1\bin\Debug\net6.0-windows\Exercise 1.exe
+D:\Windows Programming\Lession7\Lession7\Exercise 1\bin\Debug\net6.0-windows\Exercise 1.deps.json
+D:\Windows Programming\Lession7\Lession7\Exercise 1\bin\Debug\net6.0-windows\Exercise 1.runtimeconfig.json
+D:\Windows Programming\Lession7\Lession7\Exercise 1\bin\Debug\net6.0-windows\Exercise 1.dll
+D:\Windows Programming\Lession7\Lession7\Exercise 1\bin\Debug\net6.0-windows\Exercise 1.pdb
+D:\Windows Programming\Lession7\Lession7\Exercise 1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Windows Programming\Lession7\Lession7\Exercise 1\obj\Debug\net6.0-windows\App.g.cs
+D:\Windows Programming\Lession7\Lession7\Exercise 1\obj\Debug\net6.0-windows\Exercise 1_MarkupCompile.cache
+D:\Windows Programming\Lession7\Lession7\Exercise 1\obj\Debug\net6.0-windows\Exercise 1_MarkupCompile.lref
+D:\Windows Programming\Lession7\Lession7\Exercise 1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Windows Programming\Lession7\Lession7\Exercise 1\obj\Debug\net6.0-windows\Exercise 1.g.resources
+D:\Windows Programming\Lession7\Lession7\Exercise 1\obj\Debug\net6.0-windows\Exercise 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows Programming\Lession7\Lession7\Exercise 1\obj\Debug\net6.0-windows\Exercise 1.AssemblyInfoInputs.cache
+D:\Windows Programming\Lession7\Lession7\Exercise 1\obj\Debug\net6.0-windows\Exercise 1.AssemblyInfo.cs
+D:\Windows Programming\Lession7\Lession7\Exercise 1\obj\Debug\net6.0-windows\Exercise 1.csproj.CoreCompileInputs.cache
+D:\Windows Programming\Lession7\Lession7\Exercise 1\obj\Debug\net6.0-windows\Exercise 1.dll
+D:\Windows Programming\Lession7\Lession7\Exercise 1\obj\Debug\net6.0-windows\refint\Exercise 1.dll
+D:\Windows Programming\Lession7\Lession7\Exercise 1\obj\Debug\net6.0-windows\Exercise 1.pdb
+D:\Windows Programming\Lession7\Lession7\Exercise 1\obj\Debug\net6.0-windows\Exercise 1.genruntimeconfig.cache
+D:\Windows Programming\Lession7\Lession7\Exercise 1\obj\Debug\net6.0-windows\ref\Exercise 1.dll

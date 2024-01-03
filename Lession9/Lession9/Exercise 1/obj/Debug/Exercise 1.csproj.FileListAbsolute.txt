@@ -1,0 +1,15 @@
+D:\Windows Programming\Lession9\Lession9\Exercise 1\bin\Debug\Exercise 1.exe.config
+D:\Windows Programming\Lession9\Lession9\Exercise 1\bin\Debug\Exercise 1.exe
+D:\Windows Programming\Lession9\Lession9\Exercise 1\bin\Debug\Exercise 1.pdb
+D:\Windows Programming\Lession9\Lession9\Exercise 1\bin\Debug\EntityFramework.dll
+D:\Windows Programming\Lession9\Lession9\Exercise 1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Windows Programming\Lession9\Lession9\Exercise 1\bin\Debug\EntityFramework.xml
+D:\Windows Programming\Lession9\Lession9\Exercise 1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Windows Programming\Lession9\Lession9\Exercise 1\obj\Debug\Exercise 1.csproj.AssemblyReference.cache
+D:\Windows Programming\Lession9\Lession9\Exercise 1\obj\Debug\Exercise_1.Form1.resources
+D:\Windows Programming\Lession9\Lession9\Exercise 1\obj\Debug\Exercise_1.Properties.Resources.resources
+D:\Windows Programming\Lession9\Lession9\Exercise 1\obj\Debug\Exercise 1.csproj.GenerateResource.cache
+D:\Windows Programming\Lession9\Lession9\Exercise 1\obj\Debug\Exercise 1.csproj.CoreCompileInputs.cache
+D:\Windows Programming\Lession9\Lession9\Exercise 1\obj\Debug\Exercise 1.csproj.CopyComplete
+D:\Windows Programming\Lession9\Lession9\Exercise 1\obj\Debug\Exercise 1.exe
+D:\Windows Programming\Lession9\Lession9\Exercise 1\obj\Debug\Exercise 1.pdb

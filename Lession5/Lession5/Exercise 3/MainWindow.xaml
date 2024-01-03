@@ -1,0 +1,35 @@
+﻿<Window x:Class="Exercise_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exercise_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TabControl x:Name="Tab1" Margin="0,0,0,217">
+            <TabItem Header="Name">
+                <Label FontWeight="Bold">Purushottam Rathore</Label>
+            </TabItem>
+
+            <TabItem Header="Image">
+                <Image Source="D:\Windows Programming\Lession5\Lession5\Exercise 3\Images\bong bong.png"></Image>
+            </TabItem>
+
+            <TabItem Header="Hotels">
+                <Image Source="D:\Windows Programming\Lession5\Lession5\Exercise 3\Images\ban cong.jpg"></Image>
+            </TabItem>
+            <TabItem Header="Contact us">
+                <Grid>
+                    <TextBox HorizontalAlignment="Left" Margin="84,34,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                    <TextBox HorizontalAlignment="Left" Margin="84,81,0,0" TextWrapping="Wrap" Text ="" VerticalAlignment="Top" Width="120"/>
+                    <Label Content="Name:" HorizontalAlignment="Left" Margin="35,30,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.569,-0.921"/>
+                    <Label Content="Email:" HorizontalAlignment="Left" Margin="38,77,0,0" VerticalAlignment="Top"/>
+                    <Button Content="OK" HorizontalAlignment="Left" Margin="84,124,0,0" VerticalAlignment="Top" Width="70"/>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <Button x:Name="Button1" Content="Tab Click" HorizontalAlignment="Center" Margin="0,267,0,0" VerticalAlignment="Top" Click="Button1_Click"/>
+    </Grid>
+</Window>
